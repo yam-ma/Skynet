@@ -1,0 +1,11 @@
+score,n_estimators,min_samples_split,min_samples_leaf,max_depth,subsample,f1,f2,f3,f4,f5,f6,f7,f8,f9,f10
+0.18181818181818182,10,100,1,3,1.0,smooth_ks5_Vert_4,,,,,,,,,
+0.4444444444444445,10,10,10,6,0.8,smooth_ks5_Vert_4,smooth_ks3_Temp_8,,,,,,,,
+0.5714285714285715,10,2,10,3,0.8,smooth_ks5_Vert_4,smooth_ks3_Temp_8,smooth_ks9_Rela_2,,,,,,,
+0.6666666666666666,10,2,10,5,1.0,smooth_ks5_Vert_4,smooth_ks3_Temp_8,smooth_ks9_Rela_2,Geop600,,,,,,
+0.6666666666666666,10,10,10,6,0.8,smooth_ks5_Vert_4,smooth_ks3_Temp_8,smooth_ks9_Rela_2,Geop600,edge_Temp_1,,,,,
+0.4675324675324676,100,2,50,3,1.0,smooth_ks5_Vert_4,smooth_ks3_Temp_8,smooth_ks9_Rela_2,Geop600,edge_Temp_1,u-co400,,,,
+0.5,10,2,10,5,0.8,smooth_ks5_Vert_4,smooth_ks3_Temp_8,smooth_ks9_Rela_2,Geop600,edge_Temp_1,u-co400,wspd500,,,
+0.4,10,2,10,4,0.8,smooth_ks5_Vert_4,smooth_ks3_Temp_8,smooth_ks9_Rela_2,Geop600,edge_Temp_1,u-co400,wspd500,smooth_ks5_Rela_6,,
+0.4,10,2,10,4,0.8,smooth_ks5_Vert_4,smooth_ks3_Temp_8,smooth_ks9_Rela_2,Geop600,edge_Temp_1,u-co400,wspd500,smooth_ks5_Rela_6,smooth_ks5_Rela_7,
+0.4041514041514041,100,2,10,6,0.8,smooth_ks5_Vert_4,smooth_ks3_Temp_8,smooth_ks9_Rela_2,Geop600,edge_Temp_1,u-co400,wspd500,smooth_ks5_Rela_6,smooth_ks5_Rela_7,Geop950

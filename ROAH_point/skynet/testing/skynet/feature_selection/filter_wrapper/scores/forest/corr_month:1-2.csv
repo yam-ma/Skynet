@@ -1,0 +1,3 @@
+score,n_estimators,min_samples_split,min_samples_leaf,f1,f2
+0.07843137254901962,10,2,1,Total precipitation,
+0.043033512347740804,10,2,1,Total precipitation,smooth_ks3_Rela_6

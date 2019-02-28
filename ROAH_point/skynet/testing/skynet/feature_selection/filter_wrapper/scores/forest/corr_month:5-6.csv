@@ -1,0 +1,3 @@
+score,n_estimators,min_samples_split,min_samples_leaf,f1,f2
+0.07414259439575895,10,2,1,Rela975,
+0.0816133727264012,10,2,1,Rela975,Temp600

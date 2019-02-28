@@ -1,0 +1,3 @@
+score,n_estimators,min_samples_split,min_samples_leaf,f1,f2
+0.025892408245349424,10,2,1,smooth_ks9_Rela_3,
+0.04044117647058824,10,2,1,smooth_ks9_Rela_3,Rela500

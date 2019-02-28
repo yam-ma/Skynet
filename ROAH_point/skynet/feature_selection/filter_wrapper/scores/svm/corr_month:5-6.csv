@@ -1,0 +1,3 @@
+score,C,kernel,gamma,f1,f2
+0.0,1,rbf,0.0001,WX_telop_300,
+0.10882352941176471,100,rbf,1.0,WX_telop_300,smooth_ks9_Rela_3

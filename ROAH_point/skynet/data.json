@@ -1,0 +1,212 @@
+{
+  "MSM": {
+    "400220000": {
+      "layer": "surface",
+      "base time": "00",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220001": {
+      "layer": "surface",
+      "base time": "03",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220002": {
+      "layer": "surface",
+      "base time": "06",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220003": {
+      "layer": "surface",
+      "base time": "09",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220004": {
+      "layer": "surface",
+      "base time": "12",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220005": {
+      "layer": "surface",
+      "base time": "15",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220006": {
+      "layer": "surface",
+      "base time": "18",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220007": {
+      "layer": "surface",
+      "base time": "21",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220008": {
+      "layer": "upper",
+      "base time": "00",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220009": {
+      "layer": "upper",
+      "base time": "03",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220010": {
+      "layer": "upper",
+      "base time": "06",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220011": {
+      "layer": "upper",
+      "base time": "09",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220012": {
+      "layer": "upper",
+      "base time": "12",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220013": {
+      "layer": "upper",
+      "base time": "15",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220014": {
+      "layer": "upper",
+      "base time": "18",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220015": {
+      "layer": "upper",
+      "base time": "21",
+      "first validity time": "00",
+      "last validity time": "15"
+    },
+    "400220115": {
+      "layer": "surface",
+      "base time": "03",
+      "first validity time": "16",
+      "last validity time": "33"
+    },
+    "400220123": {
+      "layer": "upper",
+      "base time": "03",
+      "first validity time": "16",
+      "last validity time": "33"
+    },
+    "parameter": {
+      "surface": [
+        "Pressure reduced to MSL",
+        "Pressure",
+        "u-component of wind",
+        "v-component of wind",
+        "Temperature",
+        "Relative humidity",
+        "Low cloud cover",
+        "Medium cloud cover",
+        "High cloud cover",
+        "Total cloud cover",
+        "Total precipitation",
+        "Downward short-wave radiation flux"
+      ],
+      "upper": [
+        "Geopotential height",
+        "u-component of wind",
+        "v-component of wind",
+        "Temperature",
+        "Vertical velocity [pressure]",
+        "Relative humidity"
+      ]
+    },
+    "level": {
+      "surface": [
+        "surface"
+      ],
+      "upper": [
+        "300",
+        "400",
+        "500",
+        "600",
+        "700",
+        "800",
+        "850",
+        "900",
+        "925",
+        "950",
+        "975",
+        "1000"
+      ]
+    }
+  },
+  "AF": {
+    "411023733": {
+      "name": "airport area forecast overwrite ver",
+      "first validity time": "00",
+      "last validity time": "45",
+      "parameter": [
+        "PRCRIN_1HOUR_TOTAL",
+        "PRCRIN_1HOUR_TOTAL_bure",
+        "VIS",
+        "VIS_bure",
+        "CLING",
+        "CLING_bure",
+        "AIRTMP",
+        "AIRTMP_bure",
+        "WNDSPD",
+        "WNDSPD_bure",
+        "WNDDIR",
+        "GUSTS",
+        "CAPE",
+        "CAPE_bure",
+        "CIN",
+        "SSI",
+        "TNDSTM_prob",
+        [
+          "WX_count",
+          "WX_telop",
+          "WX_prob"
+        ]
+      ]
+    },
+    "411023800": {
+      "name": "airport area forecast modify ver",
+      "first validity time": "0",
+      "last validity time": null,
+      "parameter": [
+        "PRCRIN_1HOUR_TOTAL",
+        "VIS",
+        "CLING",
+        "AIRTMP",
+        "WNDSPD",
+        "WNDDIR",
+        "GUSTS",
+        "WX",
+        "THNDR_prob",
+        [
+          "runway_count",
+          "runway_no",
+          "dir",
+          "priority_flag",
+          "default_priority",
+          "cross_WIND",
+          "tail_WIND",
+          "head_WIND"
+        ]
+      ]
+    }
+  }
+}

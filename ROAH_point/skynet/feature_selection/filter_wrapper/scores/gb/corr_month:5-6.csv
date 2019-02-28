@@ -1,0 +1,11 @@
+score,n_estimators,min_samples_split,min_samples_leaf,max_depth,subsample,f1,f2,f3,f4,f5,f6,f7,f8,f9,f10
+0.23076923076923075,10,100,10,4,0.8,Relative humidity,,,,,,,,,
+0.2857142857142857,10,100,10,4,0.8,Relative humidity,Low cloud cover,,,,,,,,
+0.2727272727272727,10,100,10,3,0.8,Relative humidity,Low cloud cover,Rela975,,,,,,,
+0.2777777777777778,10,100,10,5,1.0,Relative humidity,Low cloud cover,Rela975,smooth_ks9_Rela_0,,,,,,
+0.22222222222222224,10,100,10,6,0.8,Relative humidity,Low cloud cover,Rela975,smooth_ks9_Rela_0,smooth_ks5_Rela_7,,,,,
+0.23529411764705882,10,10,50,3,0.8,Relative humidity,Low cloud cover,Rela975,smooth_ks9_Rela_0,smooth_ks5_Rela_7,Geop975,,,,
+0.21052631578947364,10,10,50,5,0.8,Relative humidity,Low cloud cover,Rela975,smooth_ks9_Rela_0,smooth_ks5_Rela_7,Geop975,smooth_ks3_Rela_3,,,
+0.21519182571814147,100,10,50,6,1.0,Relative humidity,Low cloud cover,Rela975,smooth_ks9_Rela_0,smooth_ks5_Rela_7,Geop975,smooth_ks3_Rela_3,v-co400,,
+0.26417624521072797,100,10,50,4,1.0,Relative humidity,Low cloud cover,Rela975,smooth_ks9_Rela_0,smooth_ks5_Rela_7,Geop975,smooth_ks3_Rela_3,v-co400,smooth_ks7_Rela_4,
+0.3,10,100,50,6,1.0,Relative humidity,Low cloud cover,Rela975,smooth_ks9_Rela_0,smooth_ks5_Rela_7,Geop975,smooth_ks3_Rela_3,v-co400,smooth_ks7_Rela_4,smooth_ks7_Rela_2

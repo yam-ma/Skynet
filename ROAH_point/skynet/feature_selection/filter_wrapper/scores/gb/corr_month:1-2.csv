@@ -1,0 +1,11 @@
+score,n_estimators,min_samples_split,min_samples_leaf,max_depth,subsample,f1,f2,f3,f4,f5,f6,f7,f8,f9,f10
+0.41543327008222647,10,100,1,3,1.0,edge_Temp_6,,,,,,,,,
+0.7111111111111111,10,100,10,6,1.0,edge_Temp_6,u-co500,,,,,,,,
+0.8030303030303031,10,2,1,6,1.0,edge_Temp_6,u-co500,Rela950,,,,,,,
+0.8261072261072261,100,100,10,5,0.8,edge_Temp_6,u-co500,Rela950,smooth_ks5_Vert_5,,,,,,
+0.8121212121212121,100,100,1,3,1.0,edge_Temp_6,u-co500,Rela950,smooth_ks5_Vert_5,WX_telop_300,,,,,
+0.8261072261072261,100,10,10,4,0.8,edge_Temp_6,u-co500,Rela950,smooth_ks5_Vert_5,WX_telop_300,edge_Vert_9,,,,
+0.8363636363636363,10,2,1,5,0.8,edge_Temp_6,u-co500,Rela950,smooth_ks5_Vert_5,WX_telop_300,edge_Vert_9,smooth_ks9_Vert_0,,,
+0.8777777777777778,100,2,10,3,0.8,edge_Temp_6,u-co500,Rela950,smooth_ks5_Vert_5,WX_telop_300,edge_Vert_9,smooth_ks9_Vert_0,CAPE,,
+0.853146853146853,100,100,10,3,1.0,edge_Temp_6,u-co500,Rela950,smooth_ks5_Vert_5,WX_telop_300,edge_Vert_9,smooth_ks9_Vert_0,CAPE,smooth_ks3_Rela_1,
+0.8564102564102564,100,2,10,3,0.8,edge_Temp_6,u-co500,Rela950,smooth_ks5_Vert_5,WX_telop_300,edge_Vert_9,smooth_ks9_Vert_0,CAPE,smooth_ks3_Rela_1,Vert600
